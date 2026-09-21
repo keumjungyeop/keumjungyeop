@@ -20,14 +20,22 @@
 
 <br/>
 
-### 📊 커밋 활동 수련도 (GitHub Stats)
+### 📊 전체 수련 현황 (통합 잔디 기록)
 ![keumjungyeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=keumjungyeop&show_icons=true&theme=dark&hide_border=true)
 
 <br/>
 
-### 🎯 리트코드 문제 풀이 스탯 (LeetCode Stats)
-![LeetCode Stats](https://leetcode-stats-aaron-s.vercel.app/api?username=YOUR_LEETCODE_ID&theme=dark)
-> ※ 위 이미지 주소의 `YOUR_LEETCODE_ID` 부분을 본인의 리트코드 계정 ID로 변경해 주세요.
+### 🎯 플랫폼별 문제 풀이 현황
+
+#### 🟢 프로그래머스 (Programmers)
+![Programmers Repo](https://github-readme-stats.vercel.app/api/pin/?username=keumjungyeop&repo=algorithm-daily&theme=dark)
+> 백준허브를 통해 프로그래머스에서 푼 문제가 `algorithm-daily` 저장소로 자동 커밋됩니다.
+
+<br/>
+
+#### 🟡 리트코드 (LeetCode)
+![LeetCode Stats](https://leetcode-stats-aaron-s.vercel.app/api?username=keumkeum&theme=dark)
+> 난이도별(Easy / Medium / Hard) 풀이 수와 정답률이 실시간 숫자로 표시됩니다.
 
 <br/>
 
