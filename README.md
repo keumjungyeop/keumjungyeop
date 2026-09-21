@@ -26,7 +26,8 @@
 
 <br/>
 
-### 🟡 문제 풀이 프로필
+### 🟡 문제 풀이 기록
+[![Programmers](https://img.shields.io/badge/Programmers-algorithm--daily-0059C6?style=flat-square&logo=codeforces&logoColor=white)](https://github.com/keumjungyeop/algorithm-daily)
 [![LeetCode](https://img.shields.io/badge/LeetCode-keumkeum-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/keumkeum/)
 
 <br/>
