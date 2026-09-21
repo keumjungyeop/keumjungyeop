@@ -12,8 +12,23 @@
 
 <br/>
 
-### 🌱 매일 쌓이는 초록색 잔디밭 (일일 커밋 기록)
-![goldyeop's github activity graph](https://ghchart.rshah.org/keumjungyeop)
+### 🛠 다루는 도구
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+<br/>
+
+### 🟢 1. 프로그래머스 & 전체 활동 잔디 (GitHub Commits)
+![keumjungyeop's github activity graph](https://ghchart.rshah.org/keumjungyeop)
+> 백준허브를 통해 프로그래머스에서 푼 문제가 커밋되면서 이 잔디밭에 초록색으로 채워집니다.
+
+<br/>
+
+### 🟡 2. 리트코드 전용 현황 (LeetCode Stats - ID: keumkeum)
+![LeetCode Stats](https://leetcode-stats-aaron-s.vercel.app/api?username=keumkeum&theme=dark)
+> 리트코드 전용 풀이 수와 난이도별(Easy/Medium/Hard) 수치가 실시간으로 표시됩니다.
 
 <br/>
 
