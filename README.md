@@ -20,8 +20,14 @@
 
 <br/>
 
-### 📊 하루하루 쌓이는 기록
+### 📊 커밋 활동 수련도 (GitHub Stats)
 ![keumjungyeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=keumjungyeop&show_icons=true&theme=dark&hide_border=true)
+
+<br/>
+
+### 🎯 리트코드 문제 풀이 스탯 (LeetCode Stats)
+![LeetCode Stats](https://leetcode-stats-aaron-s.vercel.app/api?username=YOUR_LEETCODE_ID&theme=dark)
+> ※ 위 이미지 주소의 `YOUR_LEETCODE_ID` 부분을 본인의 리트코드 계정 ID로 변경해 주세요.
 
 <br/>
 
