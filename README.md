@@ -20,15 +20,14 @@
 
 <br/>
 
-### 🟢 1. 프로그래머스 & 전체 활동 잔디 (GitHub Commits)
+### 🟢 1. 프로그래머스 & 리트코드 통합 잔디 (GitHub Commits)
 ![keumjungyeop's github activity graph](https://ghchart.rshah.org/keumjungyeop)
-> 백준허브를 통해 프로그래머스에서 푼 문제가 커밋되면서 이 잔디밭에 초록색으로 채워집니다.
+> 백준허브(프로그래머스)와 LeetSync(리트코드)로 풀이 제출 시, 이 잔디밭에 초록색으로 자동 채워집니다.
 
 <br/>
 
-### 🟡 2. 리트코드 전용 현황 (LeetCode Stats - ID: keumkeum)
-![LeetCode Stats](https://leetcode-stats-aaron-s.vercel.app/api?username=keumkeum&theme=dark)
-> 리트코드 전용 풀이 수와 난이도별(Easy/Medium/Hard) 수치가 실시간으로 표시됩니다.
+### 🟡 2. 리트코드 전용 현황 (LeetCode Stats - keumkeum)
+![LeetCode Stats](https://leetcode-stats-card.vercel.app/?username=keumkeum&theme=dark)
 
 <br/>
 
