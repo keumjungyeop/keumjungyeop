@@ -20,16 +20,16 @@
 
 <br/>
 
-### 🟢 1. 프로그래머스 & 리트코드 통합 잔디 (GitHub Commits)
+### 🟢 1일 1커밋 수련 잔디 (GitHub Commits)
 ![keumjungyeop's github activity graph](https://ghchart.rshah.org/keumjungyeop)
 > 백준허브(프로그래머스)와 LeetSync(리트코드)로 풀이 제출 시, 이 잔디밭에 초록색으로 자동 채워집니다.
 
 <br/>
 
-### 🟡 2. 리트코드 전용 현황 (LeetCode Stats - keumkeum)
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/?username=keumkeum&theme=dark)
+### 🟡 문제 풀이 프로필
+[![LeetCode](https://img.shields.io/badge/LeetCode-keumkeum-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/keumkeum/)
 
 <br/>
 
 ### 📚 문제 풀이 모음장
-* 🧩 **알고리즘 & SQL 기록**: [`algorithm-daily`](https://github.com/keumjungyeop/algorithm-daily)
+* 🧩 **알고리즘 & SQL 기록**: [`algorithm-daily`](https://github.com/keumjungyeop/algorithm-daily) — 매일 푼 문제를 정성껏 담아두는 공간
