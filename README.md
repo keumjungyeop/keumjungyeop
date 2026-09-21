@@ -1,10 +1,18 @@
-# 👋 Hi, I'm goldyeop
+# 🌿 한 글자씩 정성껏, goldyeop의 배움터
 
-> 매일의 기록으로 탄탄한 기본기를 만드는 컴퓨터공학도입니다.
+> "오늘 적은 한 줄의 코드가 내일의 탄탄한 바탕이 됩니다."
+> 매일 묵묵히 하루 한 줄씩 배움을 써 내려갑니다.
 
 <br/>
 
-### 🛠 Tech & Tools
+### 🍃 배움의 길
+* **배우는 학문**: 컴퓨터공학부
+* **주요 관심사**: 사물인터넷(IoT)과 인공지능(AI)
+* **마음가짐**: 매일 빠짐없이 1일 1커밋으로 묵묵히 실력을 다집니다.
+
+<br/>
+
+### 🛠 다루는 도구
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -12,24 +20,10 @@
 
 <br/>
 
-### 📊 Commit Stats
+### 📊 하루하루 쌓이는 기록
 ![keumjungyeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=keumjungyeop&show_icons=true&theme=dark&hide_border=true)
 
 <br/>
 
-### 🔗 Link
-* 🧩 **Daily Problem Solving**: [`algorithm-daily`](https://github.com/keumjungyeop/algorithm-daily)
-<!--
-**keumjungyeop/keumjungyeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 문제 풀이 모음장
+* 🧩 **알고리즘 & SQL 기록**: [`algorithm-daily`](https://github.com/keumjungyeop/algorithm-daily) — 매일 푼 문제를 정성껏 담아두는 공간
